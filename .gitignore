@@ -1,0 +1,45 @@
+# bin
+*.exe
+blog
+
+# swap
+*~
+
+# tmp
+/tmp/
+install.lock
+
+# deps
+# /static/ueditor/
+/static/upload/
+
+# debug
+/debug/
+
+# config
+/custom/app.conf
+
+# gopm
+/.vendor/
+
+# log
+output
+*.log
+
+# idea
+.idea/
+*.iml
+
+# mac
+.DS_Store
+
+# release
+release/
+
+# nohup
+nohup.out
+
+# var
+var/
+
+release.zip
